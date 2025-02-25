@@ -5,7 +5,7 @@ The corresponding software framework could be used to reproduce the experimental
 - ./measures/ - contains code for Unweighted Average Recall UAR[%] rates given the ground truth and prediction classes.
 - ./labels/ - includes an example of label file for Uni-Bern embarrassment dataset
 
-Due to the General Data Protection Regulation (GDPR) regulation, the Unibern Dataset used for embarrassment analysis could not be shared without signing An end-user license agreement (EULA) with Uni-Bern Representatives. 
+Due to the conditions of consent by the study participants, the Unibern Dataset of speech data used for embarrassment analysis could not be shared.
 
 Processing flow for reproducing results presented in Section 3.2 
 
